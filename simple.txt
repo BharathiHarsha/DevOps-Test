@@ -1,0 +1,3 @@
+If you want to open the folder in a source tree
+GoTo file and click on open
+
